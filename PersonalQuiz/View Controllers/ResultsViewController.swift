@@ -11,8 +11,7 @@ class ResultsViewController: UIViewController {
     
     // 1. Передать сюда массив с ответами
     // 2. Определить наиболее часто встречающийся тип животного
-    // 3. Отобразить результаты на экране
-    
+    // 3. Отобразить результаты на экране    
     // 4. Избавится от кнопки возврата на предыдущий экран
 
     @IBOutlet weak var topResultTestLabel: UILabel!
@@ -24,7 +23,7 @@ class ResultsViewController: UIViewController {
         super.viewDidLoad()
         
         navigationItem.setHidesBackButton(true, animated: false)
-        returnBestVariant(from: resultAnswers)        
+        returnBestVariant(from: resultAnswers)
         }
     
     private func returnBestVariant(from results: [Answer]) { //-> Answer
