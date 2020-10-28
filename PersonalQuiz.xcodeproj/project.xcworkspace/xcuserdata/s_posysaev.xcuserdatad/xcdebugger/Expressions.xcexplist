@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "QuestionsViewController.rangedAnswerButtonPressed():QuestionsVieweController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rangedSlider.value">
+            </PersistentString>
+            <PersistentString
+               value = "answersChoosen">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResultsViewController.returnBestVariant(from:):ResultsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ResultsViewController.viewDidLoad():ResultsViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
